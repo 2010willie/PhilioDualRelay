@@ -3,7 +3,7 @@
  *
  *	Author: Steven Tomlinson (TmpR)
  *	Email: steven@nemiah.uk
- *	Date: 09/07/2017a
+ *	Date: 09/07/2017
  *
  *	Based on the Fibaro FGS-222 Double Relay Device Type Handler by Chris Charles and Robin Winbourne
  *  
